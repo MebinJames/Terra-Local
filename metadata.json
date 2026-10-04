@@ -1,0 +1,6 @@
+{
+  "name": "TerraLocal AgOS",
+  "description": "Offline-first edge agricultural AI platform for local crop health diagnostics, evapotranspiration irrigation forecasting, farming knowledge base Q&A, and automated field actuator control.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
